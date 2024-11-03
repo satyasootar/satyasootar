@@ -19,6 +19,9 @@ Hi there! 👋 I'm Satya Prangya Sootar, a passionate developer with a strong fo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=satyasootar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## Hactoberfest 2024
+[![An image of @satyasootar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyasootar)](https://holopin.io/@satyasootar)
+
 ### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
