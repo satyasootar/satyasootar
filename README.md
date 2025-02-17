@@ -11,9 +11,9 @@
 🔹 Enthusiastic about **front-end development & problem-solving**  
 
 ### 🛠️ Tech Stack:  
-- **Frontend:** React.js, JavaScript, HTML, CSS  
-- **Backend:** Java  
-- **Tools & Platforms:** Git, Vite, Chakra UI  
+- **Frontend:** React.js, JavaScript 
+- **Backend:** Express  
+- **Tools & Platforms:** Git, Vite, Tailwind css
 - **Open Source Contributions:** Hacktoberfest & GirlScript Summer of Code  
 
 📌 **Currently working on:** Enhancing my React skills & contributing to open source!  
