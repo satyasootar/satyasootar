@@ -3,7 +3,22 @@
 <hr>
 
 # 💫 About Me:
-Hi there! 👋 I'm Satya Prangya Sootar, a passionate developer with a strong foundation in HTML, CSS, JavaScript, Java, and C. My journey in coding has been driven by a love for creating dynamic and user-friendly web applications.<br><br>🔭 Projects I have worked on numerous projects utilizing HTML, CSS, and JavaScript. These projects range from interactive websites to full-fledged web applications. Each project has helped me hone my skills and push the boundaries of what I can create.<br><br>🌱 Currently Learning I'm always eager to learn and improve. Currently, I'm diving deeper into advanced JavaScript frameworks and libraries to expand my toolkit and take on more challenging projects.<br><br>👯 Collaboration I'm open to collaborating on projects that challenge me and help me grow. Whether it's a cool new idea or an existing project that needs some extra hands, feel free to reach out!
+
+## 👋 Hi there! I'm Satya Sootar  
+
+🚀 **Web Developer** | **React, Java, and JavaScript**  
+🔹 Passionate about **building scalable & efficient web solutions**  
+🔹 Enthusiastic about **front-end development & problem-solving**  
+
+### 🛠️ Tech Stack:  
+- **Frontend:** React.js, JavaScript, HTML, CSS  
+- **Backend:** Java  
+- **Tools & Platforms:** Git, Vite, Chakra UI  
+- **Open Source Contributions:** Hacktoberfest & GirlScript Summer of Code  
+
+📌 **Currently working on:** Enhancing my React skills & contributing to open source!  
+📌 **Let's connect:** [GitHub](https://github.com/satyasootar) | [Twitter](https://twitter.com/Satyasootar) | [LinkedIn](https://linkedin.com/in/satyasootar)  
+
 
 
 ## 🌐 Socials:
