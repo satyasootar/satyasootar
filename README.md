@@ -16,9 +16,6 @@
 - **Tools & Platforms:** Git, Vite, Tailwind css
 - **Open Source Contributions:** Hacktoberfest & GirlScript Summer of Code  
 
-📌 **Currently working on:** Enhancing my React skills & contributing to open source!  
-📌 **Let's connect:** [GitHub](https://github.com/satyasootar) | [Twitter](https://twitter.com/Satyasootar) | [LinkedIn](https://linkedin.com/in/satyasootar)  
-
 
 
 ## 🌐 Socials:
