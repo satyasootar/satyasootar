@@ -1,12 +1,3 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="840">
-<br>
-<hr>
-
-Excellent feedback, Satya.
-Here’s your refined **About Me** — with a **balanced, professional tone**, minimal emojis, and a stronger **focus on your backend and full-stack capabilities** while keeping your design-engineering integration visible.
-
----
-
 ## 💫 About Me
 
 ### Hi, I'm **Satya Prangya Sootar**
