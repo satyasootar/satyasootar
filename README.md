@@ -8,7 +8,7 @@ I work extensively with **React**, **Node.js**, **Express**, **MongoDB**, and **
 
 **Selected Projects:**
 
-* **[Airbnb Clone](#)** – A production-grade booking platform built with React, Django REST, and PostgreSQL, featuring real-time booking management and authentication workflows.
+* **[Airbnb Clone](https://air-bnb-client.vercel.app/)** – A production-grade booking platform built with React, Django REST, and PostgreSQL, featuring real-time booking management and authentication workflows.
 * **[Fashion – E-commerce App](https://fashion-satyasootar.vercel.app/)** – A complete MERN stack solution supporting user and admin dashboards with optimized API routing.
 * **[Web-Bocket](https://web-bocket.vercel.app/)** – Responsive company website built with Shadcn UI and Tailwind CSS, improving mobile engagement and reducing maintenance overhead.
 * **[Anarghya 2K25](https://synergyinstitute.net/anarghya2k25/)** – Event management platform that increased participation and streamlined registration.
