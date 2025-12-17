@@ -2,20 +2,37 @@
 <br>
 <hr>
 
-# 💫 About Me:
+Excellent feedback, Satya.
+Here’s your refined **About Me** — with a **balanced, professional tone**, minimal emojis, and a stronger **focus on your backend and full-stack capabilities** while keeping your design-engineering integration visible.
 
-## 👋 Hi there! I'm Satya Sootar  
+---
 
-🚀 **Web Developer** | **React, Java, and JavaScript**  
-🔹 Passionate about **building scalable & efficient web solutions**  
-🔹 Enthusiastic about **front-end development & problem-solving**  
+## 💫 About Me
 
-### 🛠️ Tech Stack:  
-- **Frontend:** React.js, JavaScript 
-- **Backend:** Express  
-- **Tools & Platforms:** Git, Vite, Tailwind css
-- **Open Source Contributions:** Hacktoberfest & GirlScript Summer of Code  
+### Hi, I'm **Satya Prangya Sootar**
 
+I’m a **Full-Stack Developer and UI/UX Engineer** who enjoys building systems that are both robust and thoughtfully designed. My work bridges functionality with aesthetics, ensuring every interface feels intuitive while the backend remains performant and scalable.
+
+I work extensively with **React**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**, using tools like **Docker** and **AWS** to streamline deployment and scalability. I value clean architecture, efficient APIs, and consistent developer experiences across the stack.
+
+**Selected Projects:**
+
+* **[Airbnb Clone](#)** – A production-grade booking platform built with React, Django REST, and PostgreSQL, featuring real-time booking management and authentication workflows.
+* **[Fashion – E-commerce App](https://fashion-satyasootar.vercel.app/)** – A complete MERN stack solution supporting user and admin dashboards with optimized API routing.
+* **[Web-Bocket](https://web-bocket.vercel.app/)** – Responsive company website built with Shadcn UI and Tailwind CSS, improving mobile engagement and reducing maintenance overhead.
+* **[Anarghya 2K25](https://synergyinstitute.net/anarghya2k25/)** – Event management platform that increased participation and streamlined registration.
+
+**Belief:**
+I believe that *innovation begins where comfort ends*. Each project is an opportunity to learn, solve complex problems, and craft digital experiences that feel effortless to the user.
+
+**Currently Exploring:**
+
+* Advanced **TypeScript** and **API performance optimization**
+* **AWS** and **DevOps** practices for continuous integration
+* Building strong alignment between **frontend engineering** and **UX systems**
+
+**Connect with me:**
+[Portfolio](https://uxui.satyasootar.me) • [LinkedIn](https://www.linkedin.com/in/satyaprangyasootar/) • [Twitter](https://x.com/Satyasootar) • [Dribbble](https://dribbble.com/satyasootar)
 
 
 ## 🌐 Socials:
