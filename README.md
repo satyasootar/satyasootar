@@ -50,8 +50,6 @@ I believe that *innovation begins where comfort ends*. Each project is an opport
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
-### ✍️  Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=satyasootar&limit=5&theme=dark&combine_all_yearly_contributions=true)
