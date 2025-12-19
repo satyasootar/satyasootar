@@ -54,5 +54,3 @@ I believe that *innovation begins where comfort ends*. Each project is an opport
 
 ---
 [![](https://visitcount.itsvg.in/api?id=satyasootar&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
-
