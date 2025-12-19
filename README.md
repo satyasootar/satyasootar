@@ -34,8 +34,6 @@ I believe that *innovation begins where comfort ends*. Each project is an opport
 ![](https://github-readme-streak-stats.herokuapp.com/?user=satyasootar&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyasootar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=satyasootar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 👨‍💻 Hactoberfest 2024
 [![An image of @satyasootar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyasootar)](https://holopin.io/@satyasootar)
