@@ -53,4 +53,4 @@ I believe that *innovation begins where comfort ends*. Each project is an opport
 ![](https://github-contributor-stats.vercel.app/api?username=satyasootar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=satyasootar&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=satyasootar&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in))
